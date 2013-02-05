@@ -69,8 +69,16 @@ ul.nav-stacked , ul.nav-stacked > li{
   text-align: center;
 }
 
+ul.nav-stacked > li:hover, ul.nav-stacked > li > a, a:visited{
+  color: #272727;
+}
+
+ul.nav-stacked > li:hover, ul.nav-stacked > li > a:hover{
+  color: #fff;
+}
+
 ul.nav-stacked > li:hover, ul.nav-stacked > li:hover > a{
-  background-color: #0099FF;
+  background-color: #272727;
   font-size: 16px;
 }
 
