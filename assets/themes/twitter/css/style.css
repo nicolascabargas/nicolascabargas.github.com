@@ -1,6 +1,7 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  background-image: url(http://cabargas.com/images/backnico.jpg);
 }
 .navbar {
   margin-bottom: 0;
@@ -14,7 +15,7 @@ html, body {
 
 /* The white background content wrapper */
 .content {
-  background-color: #fff;
+  background-color: rgba(255,255,255,0);
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
@@ -23,6 +24,50 @@ html, body {
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.post{
+  background-color: #FEFEFE;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+ul.posts > li{
+  background-color: white;
+  border-radius: 2px;
+  height: 200px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+ul.posts > li > span {
+  font-size: 12px;
+  float: right;
+  font-style: italic;
+}
+
+ul.posts > li > a, a:hover, a:visited{
+  font-size: 20px;
+  color: #272727;
+  text-decoration: none;
+}
+
+ul.posts > li > a.btn, a.btn:hover, a.btn:visited{
+  font-size: 16px;
+  color: white;
+  float: right;
+  text-decoration: none;
+}
+
+ul.nav-stacked , ul.nav-stacked > li{
+  background-color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+ul.nav-stacked > li:hover, ul.nav-stacked > li:hover > a{
+  background-color: #0099FF;
+  font-size: 16px;
 }
 
 /* Page header tweaks */

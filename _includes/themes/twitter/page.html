@@ -3,7 +3,14 @@
 </div>
 
 <div class="row">
-  <div class="span12">
+  <div class="span8">
     {{ content }}
   </div>
+  <div class="span4">
+  <ul class="nav nav-pills nav-stacked">
+    {% assign pages_list = site.pages %}
+    {% assign group = 'navigation' %}
+    {% include JB/pages_list %}
+  </ul>
+</div>
 </div>
