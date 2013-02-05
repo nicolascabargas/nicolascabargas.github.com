@@ -50,27 +50,24 @@ ul.posts > li > span {
   font-style: italic;
 }
 
-ul.posts > li > a, a:hover, a:visited {
+ul.posts > li > a, a:hover, a:visited{
   font-size: 20px;
   color: #272727;
   text-decoration: none;
 }
 
-ul.posts > li > a.btn, a.btn:hover, a.btn:visited {
+ul.posts > li > a.btn, a.btn:hover, a.btn:visited{
   font-size: 16px;
   color: white;
   float: right;
   text-decoration: none;
 }
 
-ul.nav-stacked {
-  border-radius: 10px;
-}
-
-ul.nav-stacked , ul.nav-stacked > li {
+ul.nav-stacked , ul.nav-stacked > li{
   background-color: white;
   font-size: 16px;
   text-align: center;
+  border-radius: 10px;
 }
 
 ul.side{
