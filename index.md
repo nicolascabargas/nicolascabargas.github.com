@@ -11,7 +11,7 @@ tagline: by @nico_cabargas
       <span>Publicado en {{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       <hr>
       <p>{{ post.excerpt }}</p>
-      <a class="btn btn-inverse disabled" href="{{ BASE_PATH }}{{ post.url }}">Ver más</a>
+      <a class="btn btn-inverse" href="{{ BASE_PATH }}{{ post.url }}">Ver más</a>
     </li>
   {% endfor %}
 </ul>
