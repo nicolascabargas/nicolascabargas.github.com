@@ -69,6 +69,10 @@ ul.nav-stacked , ul.nav-stacked > li{
   text-align: center;
 }
 
+ul.nav-stacked , ul.nav-stacked{
+  margin-bottom: 20px;
+}
+
 ul.nav-stacked > li:hover, ul.nav-stacked > li > a, a:visited{
   color: #272727;
 }

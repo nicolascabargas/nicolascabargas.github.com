@@ -8,10 +8,14 @@
     {{ content }}
   </div>
   <div class="span4">
-  <ul class="nav nav-pills nav-stacked">
-    {% assign pages_list = site.pages %}
-    {% assign group = 'navigation' %}
-    {% include JB/pages_list %}
-  </ul>
-</div>
+    <ul class="nav nav-pills nav-stacked">
+      {% assign pages_list = site.pages %}
+      {% assign group = 'navigation' %}
+      {% include JB/pages_list %}
+    </ul>
+    <ul class="nav nav-pills nav-stacked">
+      <li>
+        <div class="fb-like-box" data-href="http://www.facebook.com/pages/Falsa-Modestia/402952073132119?ref=hl" data-width="300" data-show-faces="false" data-colorscheme="light" data-stream="false" data-border-color="#fff" data-header="true"></div>
+      </li>
+    </ul>
 </div>
