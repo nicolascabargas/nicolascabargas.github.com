@@ -95,8 +95,13 @@ ul.nav-stacked > li:hover, ul.nav-stacked > li:hover > a{
   border: 0;
 }
 
-.footer{
+footer{
   color: white;
+}
+
+footer > a, a:visited, a:hover{
+  color: white;
+  font-size: 18px;
 }
 
 /* tag_box ======================================================== */
