@@ -1,7 +1,7 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
-  background-image: url(http://cabargas.com/images/backnico.jpg);
+  background-image: url(http://cabargas.com/images/backnicoblack.jpg);
 }
 .navbar {
   margin-bottom: 0;
@@ -29,12 +29,12 @@ html, body {
 .post{
   background-color: #FEFEFE;
   padding: 20px;
-  border-radius: 20px;
+  border-radius: 5px;
 }
 
 ul.posts > li{
   background-color: white;
-  border-radius: 2px;
+  border-radius: 5px;
   height: 200px;
   padding: 20px;
   margin-bottom: 10px;
