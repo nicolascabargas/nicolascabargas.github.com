@@ -36,12 +36,17 @@ html, body {
   border-radius: 5px;
 }
 
-ul.posts > li{
+ul.posts > li {
   background-color: white;
   border-radius: 5px;
   height: auto;
   padding: 50px;
   margin-bottom: 10px;
+  list-style-type: none;
+}
+
+ul.posts > li > p.post-author {
+  text-align: right;
 }
 
 ul.posts > li > span {
@@ -63,7 +68,7 @@ ul.posts > li > a, a:hover, a:visited{
 ul.posts > li > a.btn, a.btn:hover, a.btn:visited{
   font-size: 16px;
   color: white;
-  float: right;
+  float: center;
   text-decoration: none;
 }
 
