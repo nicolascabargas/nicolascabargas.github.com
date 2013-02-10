@@ -10,7 +10,7 @@ tagline: by @nico_cabargas
     <li>
       <span>Publicado en {{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       <hr>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       <a class="btn btn-inverse" href="{{ BASE_PATH }}{{ post.url }}">Ver más</a>
     </li>
   {% endfor %}

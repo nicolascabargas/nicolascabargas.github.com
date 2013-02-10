@@ -50,6 +50,10 @@ ul.posts > li > span {
   font-style: italic;
 }
 
+ul.posts > li > p {
+  text-align: justify;
+}
+
 ul.posts > li > a, a:hover, a:visited{
   font-size: 20px;
   color: #272727;
@@ -74,6 +78,17 @@ ul.side{
   margin-bottom: 20px;
 }
 
+ul.img-box > li {
+  margin-left: -25px;
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
 ul.fb-box > li {
   margin-left: -25px;
   width: 300px;
@@ -81,6 +96,19 @@ ul.fb-box > li {
   font-size: 16px;
   text-align: center;
   border-radius: 10px;
+  list-style-type: none;
+}
+
+ul.tw-box > li {
+  margin-left: -25px;
+  padding-top: 20px;
+  height: 40px;
+  width: 300px;
+  background-color: white;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 10px;
+  list-style-type: none;
 }
 
 ul.nav-stacked > li:hover, ul.nav-stacked > li > a, a:visited{
@@ -106,11 +134,12 @@ ul.nav-stacked > li:hover, ul.nav-stacked > li:hover > a{
 
 .page-header h1{
   color: #ffe;
-  font-size: 36px;
+  font-size: 40px;
 }
 
 .page-header img{
-  height: 100px;
+  height: 60px;
+  margin-bottom: -15px;
 }
 
 .topbar .btn {
