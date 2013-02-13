@@ -16,6 +16,9 @@ html, body {
 .container > footer p {
   text-align: center; /* center align it with the container */
 }
+.page-header {
+  border-bottom: 0;
+}
 
 /* The white background content wrapper */
 .content {
@@ -202,4 +205,16 @@ footer > a, a:visited, a:hover{
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+/* navigation_box ======================================================= */
+
+.navigation {
+  text-align: center;
+  font-size: 16px;
+}
+
+.navigation > a, a:hover, a:visited{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
