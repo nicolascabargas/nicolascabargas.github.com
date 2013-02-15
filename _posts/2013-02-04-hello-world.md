@@ -12,7 +12,7 @@ tags:
 post_format: [ ]
 ---
 
-[![][1]][1]
+![][1]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultrices tempus imperdiet. Sed rhoncus purus in ligula adipiscing sit amet consequat felis cursus. Proin ut nisi urna, vitae iaculis diam. Cras placerat vulputate est vel commodo. Sed nulla leo, consequat at rhoncus quis, tincidunt at turpis. Nunc ac egestas magna. Fusce erat mi, condimentum nec consectetur id, molestie eget quam.
 
