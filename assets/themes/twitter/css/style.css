@@ -118,6 +118,10 @@ ul.fb-box > li {
   list-style-type: none;
 }
 
+ul.fb-box > li > .fb-like-box{
+  margin-left: 40px;
+}
+
 ul.tw-box > li {
   margin-left: -25px;
   padding-top: 20px;
@@ -128,6 +132,10 @@ ul.tw-box > li {
   text-align: center;
   border-radius: 10px;
   list-style-type: none;
+}
+
+ul.tw-box > li > iframe {
+  margin-left: 30px;
 }
 
 ul.nav-stacked > li:hover, ul.nav-stacked > li > a, a:visited{
