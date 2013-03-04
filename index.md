@@ -13,7 +13,7 @@ tagline: by @nico_cabargas
       <hr>
       <p>{{ post.content | truncatewords: 50 }}</p>
       <hr>
-      <p><a class="span2 offset4 btn btn-inverse" href="{{ BASE_PATH }}{{ post.url }}">Ver más</a><p>
+      <p><a class="span2 offset4 btn btn-inverse" href="{{ BASE_PATH }}{{ post.url }}">Ver m&aacute;s</a><p>
     </li>
   {% endfor %}
 </ul>
