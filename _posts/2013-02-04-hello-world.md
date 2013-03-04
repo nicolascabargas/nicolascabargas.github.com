@@ -1,7 +1,6 @@
 ---
 author: nicolascabargas
 title: FalsaModestia.com
-excerpt: 
 categories:
   - Noticias
 tags: Marzo 2013
