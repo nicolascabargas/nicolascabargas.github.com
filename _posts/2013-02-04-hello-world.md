@@ -1,23 +1,33 @@
 ---
 author: nicolascabargas
-title: Hello World
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultrices tempus imperdiet. Sed rhoncus purus in ligula adipiscing sit amet consequat felis cursus. Proin ut nisi urna, vitae iaculis diam. Cras placerat vulputate est vel commodo. Sed nulla leo, consequat at rhoncus quis, tincidunt at turpis. Nunc ac egestas magna. Fusce erat mi, condimentum nec consectetur id, molestie eget quam.
-layout: post
+title: FalsaModestia.com
+excerpt: 
 categories:
-  - Moda
-tags:
-  - moda
-  - verano
-  - 2012
+  - Noticias
+tags: Marzo 2013
 post_format: [ ]
 ---
 
 ![][1]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultrices tempus imperdiet. Sed rhoncus purus in ligula adipiscing sit amet consequat felis cursus. Proin ut nisi urna, vitae iaculis diam. Cras placerat vulputate est vel commodo. Sed nulla leo, consequat at rhoncus quis, tincidunt at turpis. Nunc ac egestas magna. Fusce erat mi, condimentum nec consectetur id, molestie eget quam.
+Nosotros
 
-Donec lobortis convallis mauris, a malesuada erat adipiscing sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed pharetra mattis eros vitae dignissim. Nam vitae tortor libero. Integer magna diam, viverra in ultrices quis, porttitor sagittis nulla. Quisque sit amet leo lectus, et condimentum sapien. Fusce aliquet placerat justo. Morbi eu nunc ac neque placerat viverra ut in massa. Curabitur porta, turpis sed pretium eleifend, arcu elit dapibus velit, ac sodales ligula risus a neque. Aenean eu lectus ante, ut dictum velit. Ut nec molestie lorem. Phasellus id diam elit, non ullamcorper velit. Pellentesque nisl arcu, posuere non fringilla non, placerat at diam. Proin nec augue id nisi sagittis consectetur. Nulla et tristique libero.
+FalsaModestia.com es un sitio web de moda. Fundada en Marzo de 2013, busca informar acerca de cada suceso del mundo del diseño de vestuario en Chile.
 
-Mauris molestie scelerisque ipsum, ac scelerisque metus vestibulum eu. Mauris mattis arcu id mauris lobortis hendrerit. Ut venenatis posuere odio, at tincidunt erat lacinia sed. Nulla at arcu metus, sed interdum est. Nunc fringilla posuere leo, ut dignissim ante bibendum at. Mauris aliquet tempor est nec fringilla. Nullam mollis est vel diam rhoncus sed scelerisque nisi venenatis.
+Con espacio para las entrevistas, concursos y  el StreetStyle, FalsaModestia.com espera satisfacer a cabalidad el gusto de nuestros lectores. Así mismo, intentaremos colaborar de manera positiva en la difusión de los jóvenes talentos de la moda en Chile.
+
+"It's as true today as it ever was. He who seeks beauty, will find it". Bill Cunningham 
+
+Autor
+
+Nicolás Cabargas Madrid, estudiante de periodismo de la Universidad de Chile.  En twitter soy @nico_cabargas.
+
+Unete a FalsaModestia
+Si deseas colaborar, envía un mail a contacto@falsamodestia.com y cuéntanos más acerca de ti.
+
+Contacto 
+
+Si quieres comunicarte con nosotros, envíanos un mail a contacto@falsamodestia.com o a nicolas.cabargas@gmail.com 
+
 
  [1]: http://cabargas.com/images/siri.png
