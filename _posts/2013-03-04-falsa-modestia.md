@@ -8,12 +8,11 @@ tags: Marzo2013
 post_format: [ ]
 ---
 
-![][1]
 
 
 FalsaModestia.com 
 
-Blog personal de Nicolás Cabargas, donde hablo de moda, diseño y muestro lo mejor del streetsyle de Santiago.
+Blog personal de Nicolás Cabargas, donde hablo de moda, diseño y muestro lo mejor del "streetsyle" de Santiago.
 
 Ex alumno del Instituto Nacionales, ahora estudio periodismo en la Universidad de Chile. En twitter me puedes encontrar como @nico_cabargas.
 
