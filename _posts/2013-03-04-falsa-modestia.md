@@ -9,12 +9,9 @@ post_format: [ ]
 ---
 
 
+Blog personal de Nicolás Cabargas, donde hablo de moda, diseño y muestro lo mejor del "StreetSyle" de Santiago.
 
-FalsaModestia.com 
-
-Blog personal de Nicolás Cabargas, donde hablo de moda, diseño y muestro lo mejor del "streetsyle" de Santiago.
-
-Ex alumno del Instituto Nacional, ahora estudio periodismo en la Universidad de Chile. En twitter me puedes encontrar como @nico_cabargas.
+Ex alumno del Instituto Nacional, ahora estudiante de periodismo en la Universidad de Chile. En twitter me puedes encontrar como @nico_cabargas.
 
 Si quieres comunicarte conmigo, envia un mail a contacto@falsamodestia.com o a nicolas.cabargas@gmail.com
 
